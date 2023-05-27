@@ -7,6 +7,12 @@
 - 문자하기(Restful API)
 - 마을 행사 관리(Restful API)
 
+## 배운점
+- 깃허브, Notion, Figma, MS docs 등 툴을 활용한 협업 방식에 대해서 여러 방면으로 인사이트를 얻었습니다.
+- Flutter를 통해서 앱을 만들며 권한 관리에 대해 많이 학습했습니다.
+- 여러 라이브러리를 활용하는 능력을 길렀습니다.
+- 기능 구현을 위한 서버나 날씨를 받아오는 오픈 API를 적용하며 REST API, 소켓통신에 대해 많이 학습했습니다. 
+
 ## 개발 배경
 <img width="1575" alt="증가하는 독거노인 사망 배경1" src="https://github.com/Jun-Jinu/Turn_house_app/assets/81470586/c2989731-79f2-453b-a936-14e00db492c5">
 <img width="1597" alt="증가하는 독거노인 사망 배경2" src="https://github.com/Jun-Jinu/Turn_house_app/assets/81470586/17fbbd51-b7e3-468e-9290-62513784ccbd">
